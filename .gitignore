@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Tableau temp files
+*.twb~
+*.tds~
+
+# Data files (too large for Git — see data/README.md for download links)
+data/*.csv
+data/*.xlsx
+data/*.json
+data/india_states_shapefile/
+
+# Python
+__pycache__/
+*.pyc
+.env
