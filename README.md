@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦠 Covid-19 in India — Dashboard Analysis
+#  Covid-19 in India — Dashboard Analysis
 
 **A comprehensive Tableau dashboard analyzing COVID-19 spread, testing, vaccination & demographics across all Indian states and Union Territories.**
 
@@ -18,7 +18,6 @@ This project was built as part of a **Tableau for Beginners** YouTube tutorial s
 
 The dashboard covers **10 interactive sheets** combined into one final view, tracking COVID-19 across India from early 2020 onwards.
 
-**🎬 Tutorial Video:** [COVID-19 India Dashboard in Tableau — YouTube](https://www.youtube.com/watch?v=k47KXaY7_rc&list=PL7RSbI9s6KhgovdILZ-lIpW-LTkduE-ll&index=6)
 
 ---
 
@@ -168,21 +167,6 @@ All datasets are sourced from **Kaggle** — no CSV files are committed to this 
 | **Git / GitHub** | Version control & project hosting |
 
 ---
-
-## 📚 References & Learning Resources
-
-- 🎬 **Tutorial Playlist:** [Tableau for Beginners — YouTube](https://www.youtube.com/playlist?list=PL7RSbI9s6KhgovdILZ-lIpW-LTkduE-ll)
-- 📦 **Primary Dataset:** [COVID-19 in India — Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india)
-- 🌐 **Tableau Public Gallery:** [COVID-19 Dashboards](https://public.tableau.com/app/search/vizzes/covid-19%20india)
-- 📖 **Tableau Docs:** [Getting Started with Tableau](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-The datasets are sourced from Kaggle under their respective licenses. Please refer to each dataset's page for usage terms.
 
 ---
 
